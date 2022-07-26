@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556089615 source:d:\classes_scsu\csci301-computer science ii\projects\binary tree search\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<ostream>
+	<cstring>
+	<iomanip>
+

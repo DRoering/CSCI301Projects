@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550002643 source:d:\classes_scsu\csci301\projects\program 1\maze\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdio.h>
+	<cstring>
+
+1550006243 source:d:\classes_scsu\csci301-computer science ii\projects\maze\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<stdio.h>
+	<cstring>
+

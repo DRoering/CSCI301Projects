@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551337475 source:d:\classes_scsu\csci301\projects\program 1\linked list polynomials\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1551341075 source:d:\classes_scsu\csci301-computer science ii\projects\linked list polynomials\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

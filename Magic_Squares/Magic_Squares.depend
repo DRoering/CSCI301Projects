@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548206273 source:d:\classes_scsu\csci301\projects\program 1\magic_squares\readin.c
+
+1548257204 source:d:\classes_scsu\csci301\projects\program 1\magic_squares\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

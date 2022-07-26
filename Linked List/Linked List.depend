@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550550762 source:d:\classes_scsu\csci301\projects\program 1\linked list\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

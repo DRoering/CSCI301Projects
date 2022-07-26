@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556695262 source:d:\classes_scsu\csci301\projects\program 1\expression tree\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

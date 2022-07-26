@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554168687 source:d:\classes_scsu\csci301\projects\program 1\queues simulation\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ostream>
+	<cstring>
+
